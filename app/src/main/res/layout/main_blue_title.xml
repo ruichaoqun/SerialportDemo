@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_title_content"
+    android:layout_width="fill_parent"
+    android:layout_height="45dp"
+    android:background="@drawable/title_back">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:background="@drawable/common_click_selector_traspant"
+            android:drawableLeft="@mipmap/comm_back_btn_normal"
+            android:drawablePadding="@dimen/comm_edit_padding_least"
+            android:gravity="center"
+            android:minWidth="@dimen/dp45"
+            android:minHeight="@dimen/dp45"
+            android:paddingLeft="@dimen/margin_small"
+            android:text="返回"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textSize19" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/tv_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:ellipsize="end"
+                    android:maxLength="12"
+                    android:singleLine="true"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/textSize20" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

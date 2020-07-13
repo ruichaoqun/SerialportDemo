@@ -1,0 +1,126 @@
+<resources>
+
+    <dimen name="lineHight">0.5dp</dimen>
+    <dimen name="textSize15">15sp</dimen>
+    <dimen name="textSize11">11sp</dimen>
+    <dimen name="textSize12">12sp</dimen>
+    <dimen name="textSize13">13sp</dimen>
+    <dimen name="textSize10">10sp</dimen>
+    <dimen name="textSize16">16sp</dimen>
+    <dimen name="textSize18">18sp</dimen>
+    <dimen name="textSize19">19sp</dimen>
+    <dimen name="textSize20">20sp</dimen>
+    <dimen name="textSize34">34sp</dimen>
+    <dimen name="textSize14">14sp</dimen>
+    <dimen name="textSize17">17sp</dimen>
+    <dimen name="dp3">3dp</dimen>
+    <dimen name="dp1">1dp</dimen>
+    <dimen name="dp4">4dp</dimen>
+    <dimen name="dp14">14dp</dimen>
+    <dimen name="dp15">15dp</dimen>
+    <dimen name="dp16">16dp</dimen>
+    <dimen name="dp18">18dp</dimen>
+    <dimen name="dp19">19dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp11">11dp</dimen>
+    <dimen name="dp12">12dp</dimen>
+    <dimen name="dp8">8dp</dimen>
+    <dimen name="dp6">6dp</dimen>
+    <dimen name="dp5">5dp</dimen>
+    <dimen name="dp2">2dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+    <dimen name="dp25">25dp</dimen>
+    <dimen name="dp26">26dp</dimen>
+    <dimen name="dp28">28dp</dimen>
+    <dimen name="dp35">35dp</dimen>
+    <dimen name="dp36">36dp</dimen>
+    <dimen name="dp43">43dp</dimen>
+    <dimen name="dp44">44dp</dimen>
+    <dimen name="dp45">45dp</dimen>
+    <dimen name="dp65">65dp</dimen>
+    <dimen name="dp60">60dp</dimen>
+    <dimen name="dp54">54dp</dimen>
+    <dimen name="dp53">53dp</dimen>
+    <dimen name="dp52">52dp</dimen>
+    <dimen name="dp51">51dp</dimen>
+    <dimen name="dp68">68dp</dimen>
+    <dimen name="dp85">85dp</dimen>
+    <dimen name="dp100">100dp</dimen>
+    <dimen name="dp49">49dp</dimen>
+    <dimen name="dp50">50dp</dimen>
+    <dimen name="dp55">55dp</dimen>
+    <dimen name="dp225">225dp</dimen>
+    <dimen name="dp40">40dp</dimen>
+    <dimen name="dp9">9dp</dimen>
+    <dimen name="dp17">17dp</dimen>
+    <dimen name="dp23">23dp</dimen>
+    <dimen name="dp30">30dp</dimen>
+    <dimen name="dp13">13dp</dimen>
+    <dimen name="textSize9">9sp</dimen>
+    <dimen name="dp42">42dp</dimen>
+    <dimen name="dp91">91dp</dimen>
+    <dimen name="dp70">70dp</dimen>
+    <dimen name="dp7">7dp</dimen>
+    <dimen name="dp80">80dp</dimen>
+    <dimen name="dp150">150dp</dimen>
+    <dimen name="dp22">22dp</dimen>
+    <dimen name="dp48">48dp</dimen>
+    <dimen name="dp92">92dp</dimen>
+    <dimen name="dp76">76dp</dimen>
+    <dimen name="dp47">47dp</dimen>
+    <dimen name="dp64">64dp</dimen>
+    <dimen name="dp72">72dp</dimen>
+    <dimen name="dp97">97dp</dimen>
+    <dimen name="dp112">112dp</dimen>
+    <item name="ui_mode_alpha" format="float" type="dimen">1</item>
+    <dimen name="dp360">360dp</dimen>
+
+    <!-- google -->
+    <dimen name="refresh_header_height_google">100dp</dimen>
+    <dimen name="refresh_trigger_offset_google">100dp</dimen>
+    <dimen name="refresh_final_offset_google">150dp</dimen>
+    <dimen name="refresh_drawable_size_google">40dp</dimen>
+
+    <dimen name="load_more_footer_height_google">72dp</dimen>
+    <dimen name="load_more_trigger_offset_google">88dp</dimen>
+    <dimen name="load_more_final_offset_google">120dp</dimen>
+    <dimen name="load_more_drawable_size_google">36dp</dimen>
+    <dimen name="dp24">24dp</dimen>
+
+    <!--类似输入框、按钮左右小边距-->
+    <dimen name="margin_least">3dp</dimen>
+    <!--公用的间距、类似标题栏、内容左右边距-->
+    <dimen name="margin_small">10dp</dimen>
+    <!--公用的间距、内容中边距-->
+    <dimen name="margin_middle">16dp</dimen>
+    <!--公用的间距、内容大边距-->
+    <dimen name="margin_large">32dp</dimen>
+
+    <!-- div间距-->
+    <dimen name="div_space_least">0.3dp</dimen>
+    <dimen name="div_space_large">10dp</dimen>
+    <dimen name="div_space_middle">5dp</dimen>
+
+    <!--solid and empty shape marge-->
+    <dimen name="comm_corners_radius">4dp</dimen>
+    <dimen name="comm_edit_padding">10.0dip</dimen>
+    <dimen name="comm_edit_padding_least">3dip</dimen>
+    <dimen name="comm_stroke_width">0.3dp</dimen>
+
+    <!--类似最小字体-->
+    <dimen name="item_list_small">14sp</dimen>
+    <dimen name="item_list_least">12sp</dimen>
+
+
+    <!-- 顶部按钮栏高度 -->
+    <dimen name="pickerview_topbar_height">44dp</dimen>
+    <!-- 顶部按钮paddingLeft -->
+    <dimen name="pickerview_topbar_paddingleft">10dp</dimen>
+    <!-- 顶部按钮paddingRight -->
+    <dimen name="pickerview_topbar_paddingright">30dp</dimen>
+    <!-- 顶部按钮文字大小 -->
+    <dimen name="pickerview_topbar_btn_textsize">16sp</dimen>
+    <dimen name="pickerview_topbar_title_textsize">21sp</dimen>
+    <!-- 选项文字大小 需要配合 bools.xml 的 pickerview_customTextSize 为 true 才有效果-->
+    <dimen name="pickerview_textsize">16sp</dimen>
+</resources>
